@@ -112,5 +112,4 @@ de la referència per a la funció o l'ordre que hi ha sota el cursor.
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

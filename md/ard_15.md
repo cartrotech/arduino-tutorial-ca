@@ -108,5 +108,4 @@ delay(100);
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

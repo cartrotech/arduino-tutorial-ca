@@ -177,5 +177,4 @@ d'un número **num**, i per això mentre que i viatja de -255 a 255,
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

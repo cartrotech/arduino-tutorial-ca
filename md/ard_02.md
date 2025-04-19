@@ -100,5 +100,4 @@ Podem ara bolcar el programa que vam fer en la lliçó 1.02 (_O simplement carre
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

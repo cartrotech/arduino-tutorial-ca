@@ -73,5 +73,4 @@ else //quan el sensor envia senyal, el led 13 //s'encen durant 2 segons
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

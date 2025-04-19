@@ -168,5 +168,4 @@ Si correu aquest programa en un Arduino UNO us donarà, si fa no fa, un resultat
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

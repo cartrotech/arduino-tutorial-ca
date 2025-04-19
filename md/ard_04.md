@@ -25,5 +25,4 @@ Les resistències pull-up no són un tipus especial de resistències; són simpl
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

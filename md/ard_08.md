@@ -105,5 +105,4 @@ des del mateix IDE de Arduino.
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

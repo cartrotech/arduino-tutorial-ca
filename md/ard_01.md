@@ -257,5 +257,4 @@ En aquesta lliçó hem aprés diverses coses importants:
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

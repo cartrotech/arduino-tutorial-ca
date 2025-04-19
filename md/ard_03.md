@@ -142,5 +142,4 @@ delay ( 1000) ;
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

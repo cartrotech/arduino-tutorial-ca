@@ -85,5 +85,4 @@ val=digitalRead(tracking);
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

@@ -354,5 +354,4 @@ imprimir en eixir.
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

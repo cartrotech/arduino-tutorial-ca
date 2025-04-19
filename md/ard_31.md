@@ -190,5 +190,4 @@ void ClockChanged()
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)

@@ -91,5 +91,4 @@ void loop()
 
 ## Veure també
 
-- [Index](../Index.md)
 - [README](../README.md)
