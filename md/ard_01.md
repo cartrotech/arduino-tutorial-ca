@@ -227,8 +227,8 @@ void loop()
 Només ens falta ja, comprovar si hi ha errors i per a això premem la icona en blanc:
 
 ![Verifica][img3]
-Si
-tot va bé, ( si no hi ha errors en roig) podem compilar i bolcar amb la
+
+Si tot va bé, ( si no hi ha errors en roig) podem compilar i bolcar amb la
 següent fletxa, En cas contrari ( i creieu-me que us passarà amb
 freqüència) caldrà revisar els possibles errors i corregir-los. Tornarem
 sobre això en el futur.
