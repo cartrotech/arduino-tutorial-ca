@@ -6,6 +6,7 @@ Descobreix la potència d’Arduino mentre explorem el seu hardware senzill, el 
 
 - [00 - L'entorn de desenvolupament integrat Arduino (IDE)](/md/ard_00.md)
 - [01 - El nostre primer programa](/md/ard_01.md)
+- [02 - El nostre primer circuit](/md/ard_02.md)
 - [03 - Les entrades digitals](/md/ard_03.md)
 - [04 - Muntatge pull-up i pull-down](/md/ard_04.md)
 - [05 - Les entrades analògiques](/md/ard_05.md)
